@@ -1,6 +1,6 @@
 ## 🛠️ My Embedded Systems Engineer Roadmap
 
-Forked from [m3y54m]([https://github.com/m3y54m/Embedded-Engineering-Roadmap])
+Forked from [https://github.com/m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)]
 
 I'm currently following this roadmap to strengthen my Embedded Systems skills.
 
